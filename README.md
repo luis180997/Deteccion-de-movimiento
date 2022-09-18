@@ -7,7 +7,8 @@ Ademas se crearon funciones para encerrar en un cuadro el area donde haya movimi
 Detectar el movimiento principalmente en lugares de poca ilumincacion usando funciones propias y funciones basicas para el procesamiento de imagenes.
 
 ## Resultados
-<img src="images/resultado_1.png" alt="drawing1" width="500"/> <img src="images/resultado_2.png" alt="drawing2" width="500"/>
+![](images/resultado_1.png)
+![](images/resultado_2.png)
 
 ## Observaciones
 - Se puede ajustar los parametros del umbral y area de deteccion, si se desea probar este algoritmo en un caso mas especifico.
