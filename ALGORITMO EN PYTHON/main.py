@@ -4,7 +4,7 @@ from funciones import funcion_recuadro
 from funciones import funcion_centro
 
 #captura = cv2.VideoCapture(0) # Se usa la webcam
-captura = cv2.VideoCapture('videos/prueba.mp4') # Se lee un video
+captura = cv2.VideoCapture('videos/video_1.mp4') # Se lee un video
 
 # Se inializa el contador y la imagen gris
 gray_a = 0 #np.zeros((360,640), dtype=np.uint8)
