@@ -1,4 +1,4 @@
-# Algoritmo para el reconocimiento de movimiento de noche
+# Reconocimiento de movimiento de noche
 ## Descripcion
 Este codigo permite detectar movimientos incluso en lugares de poca ilumincacion mediante la diferencia entre 2 frames. El algoritmo en python y en matlab es lo mismo con la diferencia de las funciones y metodos que proporciona cada lenguaje. 
 Ademas se crearon funciones para encerrar en un cuadro el area donde haya movimiento. El algoritmo tambien funciona en tiempo real y se puede ajustar los parametros del umbral y area de detección por si se desee probar este algoritmo en un caso mas especifico.
