@@ -1,4 +1,4 @@
-# Reconocimiento de movimiento de noche
+# Detección de movimiento
 ## Descripcion
 <p align="justify">	
 Este codigo permite detectar movimientos incluso en lugares de poca ilumincacion mediante la diferencia entre 2 frames. El algoritmo en python y en matlab es lo mismo con la diferencia de las funciones y metodos que proporciona cada lenguaje. 
